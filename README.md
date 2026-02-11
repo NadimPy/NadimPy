@@ -6,5 +6,5 @@ I am Nadim, a python developer highly interested in Red Hat and Debian Linux.
 - 🌱 I’m currently learning rust and RHCSA
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with learning C++ and C 
-- ⚡ Fun fact: $ python -c `"import this"`
+- ⚡ Fun fact: $ `python -c "import this"`
 
